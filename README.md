@@ -10,15 +10,15 @@ the idea of this project started as a way to learn more about this whole world b
 You would probably say. Well, no. It looks different because it **is** different. I understood with time that for some people that has just started learning in fields like computer engineering and AI, understanding other people's lessons or documents (ESPECIALLY on Github) is something far more than impossible. This project is meant for that kind of people too. Yea, it's literally for everyone. It's meant for everyone. No secret recipes, just *baking*. So a more friendly tone, plus the others characteristics of this project are in my opinion the perfect recipe for clarity and understanding.
 
 ### Ok then, is it open-source?
-Of course! No license, no paid *bullpie* or things like this. As said, it's meant for everyone and everyone can contribute!
+Of course! This project uses the MIT License. It might sound like some boring legal stuff, but it's actually one of the most permissive licenses out there. It basically means you can take the code, tweak it, and use it however you want. Just keep the original license attached so everyone knows where the recipe started. As I said, it’s meant for everyone and everyone can contribute!
 
 ### How do I access the *oven*?
-Now, let's get into it. You'll find a folder, packed with documents. Don't worry, I sorted all of them so you don't get lost inside the folders, everything is in chronological order. Just follow the folders' order and you're good to go, or just follow it by down here (in [*Recipes*](#Recipes))
+Now, let's get into it. You'll find a folder, packed with documents. Don't worry, I sorted all of them so you don't get lost inside the folders, everything is in chronological order. Just follow the folders' order and you're good to go, or just follow it by down here (in [*Recipes*](#Recipes)).
 
 
 ## *Recipes*:
-Here all the recipes made this far (I suggest you to follow the order if you're at the basics):
-- Introduction to AI
+Here all the recipes made so far (I suggest you to follow the order if you're at the basics):
+- [Introduction to AI]()
 - 
 - 
 - 
