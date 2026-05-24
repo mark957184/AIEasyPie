@@ -22,3 +22,6 @@ Here all the recipes made so far (I suggest you to follow the order if you're at
 - 
 - 
 - 
+
+
+**Learning AI? As easy as a pie!**
