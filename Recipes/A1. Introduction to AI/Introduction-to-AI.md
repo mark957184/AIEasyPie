@@ -24,4 +24,11 @@ So, it's not a good discovery? It is, but could get out of hand. And even if it 
 but I know, too much information in too little time. I mean, this should just be an introduction not a lobotomy like other repos, right? We will talk about every aspect of AI in the next courses!
 
 ## So, now?
-Now, let's prepare our *bakery*! First of all, in the next courses I'll present to you, as I said in the README, some AI "children". By AI "children" I mean neural networks, that are those networks of calculations that makes the computer able to think in a more flexible way, like a human, and not like a calculator, I will talk about it more specifically here ([neural networks]()). Those neural networks will be done in Python language, is one of the languages that the computer uses to do tasks, I'll introduce you to Python here ([Python and VS code]()). If you're uncommon with all these *bakeries*, just follow the order of the courses. The journey officially begins!
+Now, let's prepare our *bakery*! First of all, in the next courses I'll present to you, as I said in the README, some AI "children". By AI "children" I mean neural networks, that are those networks of calculations that makes the computer able to think in a more flexible way, like a human, and not like a calculator, I will talk about it more specifically here ([neural networks]()). 
+
+Those neural networks will be done in Python language, is one of the languages that the computer uses to do tasks, I'll introduce you to Python here ([Python and VS code]()). If you're uncommon with all these *bakeries*, just follow the order of the courses. 
+
+The journey officially begins!
+
+
+**Learning AI? As easy as a pie!**
