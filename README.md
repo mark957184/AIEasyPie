@@ -18,7 +18,7 @@ Now, let's get into it. You'll find a folder, packed with documents. Don't worry
 
 ## *Recipes*:
 Here all the recipes made so far (I suggest you to follow the order if you're at the basics):
-- [Introduction to AI](Recipes/A1.-Introduction-to-AI)
+- [Introduction to AI](Recipes/A1.%20Introduction%20to%20AI)
 - 
 - 
 - 
