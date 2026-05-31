@@ -26,9 +26,12 @@ For this one I want to be precise. So, as some dictionaries says, AI (Artificial
 
 What does it mean? It means, as we said, that AI is the capability of a server or a computer, for example, of doing things that normally it can't do. Things like recognizing an image as one of an animal rather than one of a human. It isn't based only on calculations, but on neural networks too. 
 
-Neural networks are those networks of calculations that make that logic and humanoid thinking possible in machines, by learning from it's mistakes. At first, when those networks are created, those are just stupid and useless random patterns of calculations, but if we feed it with the correct answer for a problem, just like a baby, it learns and understands what it should do or respond. 
+Neural networks are those networks of calculations that make that logic and human-like thinking possible in machines, by learning from it's mistakes. At first, when those networks are created, those are just stupid and useless random patterns of calculations, but if we feed it with the correct answer for a problem, just like a baby, it learns and understands what it should do or respond.
 
-Is that impressive? I mean, I couldn't care less of a computer knowing if it is seeing an image of a giraffe or of a human, I think you couldn't neither. 
+> [!NOTE]
+> Neural networks are similar to the structure of our brain but not identical, to get something from them we have still to do some calculations. Unfortunately, you can't escape from math here!
+
+Is that interesting? I mean, I couldn't care less of a computer knowing if it is seeing an image of a giraffe or of a human, I think you couldn't neither. 
 
 But knowing computers can think like humans is actually pretty important, because they can adapt and find solutions to problems in less time, more accurately. I know that it could sound scary (and in some way it is), but these human-thinking bots are actually very handy for us, for a lot of reasons, not only for copying homeworks (had to mention here all the help that ChatGPT has given to my school carrier).
 
@@ -38,6 +41,8 @@ Now, let's prepare our *bakery*! First of all, from the next course I'll almost 
 Those neural networks will be done in Python language, one of the most used computer languages for AI. I'll introduce you to Python here ([Python and VS code]()). If you're uncommon with all these *bakeries*, just follow the order of the courses on the main folder!
 
 The journey officially begins!
+
+here i have in mind to put a banner or something like this
 
 
 **Learning AI? As easy as a pie!**
