@@ -19,7 +19,9 @@ That's how the first AI systems were born, using the same logic of a human brain
 
 
 ## So, what is AI?
-For this one I want to be precise. So, as some dictionaries says, AI (Artificial Intelligence) is "the capability of a computational system to perform tasks typically requiring human intelligence, this encompasses processes like learning, reasoning, problem-solving, perception, and language understanding and..." blah blah blah. 
+For this one I want to be precise. So, as some dictionaries says, AI (Artificial Intelligence) is: 
+> the capability of a computational system to perform tasks typically requiring human intelligence, this encompasses processes like learning, reasoning, problem-solving, perception, and language understanding and
+...blah blah blah. 
 
 What does it mean? It means, as we said, that AI is the capability of a server or a computer, for example, of doing things that normally it can't do. Things like recognizing an image as one of an animal rather than one of a human. It isn't based only on calculations, but on neural networks too. 
 
