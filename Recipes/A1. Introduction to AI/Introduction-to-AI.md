@@ -38,11 +38,18 @@ But knowing computers can think like humans is actually pretty important, becaus
 ## So, now?
 Now, let's prepare our *bakery*! First of all, from the next course I'll almost always present to you, as I said in the README, some AI "children". By AI "children" I mean neural networks or similar examples, now you know it.
 
-Those neural networks will be done in Python language, one of the most used computer languages for AI. I'll introduce you to Python here ([Python and VS code]()). If you're uncommon with all these *bakeries*, just follow the order of the courses on the main folder!
+Those neural networks will be done in Python language, one of the most used computer languages for AI. I'll introduce you to Python here ([Preparing our bakery]()), this will be the next lesson.
 
 The journey officially begins!
 
-here i have in mind to put a banner or something like this
+---
 
+- Next lesson: [Preparing our bakery]()
+
+- Home: [AIEasyPie](/README.md)
+
+---
+
+![](/images/Banner.png)
 
 **Learning AI? As easy as a pie!**
