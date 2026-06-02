@@ -35,6 +35,7 @@ Is that interesting? I mean, I couldn't care less of a computer knowing if it is
 
 But knowing computers can think like humans is actually pretty important, because they can adapt and find solutions to problems in less time, more accurately. I know that it could sound scary (and in some way it is), but these human-thinking bots are actually very handy for us, for a lot of reasons, not only for copying homeworks (had to mention here all the help that ChatGPT has given to my school carrier).
 
+
 ## So, now?
 Now, let's prepare our *bakery*! First of all, from the next course I'll almost always present to you, as I said in the README, some AI "children". By AI "children" I mean neural networks or similar examples, now you know it.
 
