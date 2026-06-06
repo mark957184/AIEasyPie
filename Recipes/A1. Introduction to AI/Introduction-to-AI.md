@@ -24,9 +24,9 @@ For this one I want to be precise. So, as some dictionaries says, AI (Artificial
 
 ...blah blah blah. 
 
-What does it mean? It means, as we said, that AI is the capability of a server or a computer, for example, of doing things that normally it can't do. Things like recognizing an image as one of an animal rather than one of a human. It isn't based only on calculations, but on neural networks too. 
+What does it mean? It means, as we said, that AI is the capability of a server or a computer, for example, of doing things that normally it can't do. Things like recognizing an image as one of an animal rather than one of a human. It isn't based on already-known procedures, but on calculations in a neural network.
 
-Neural networks are those networks of calculations that make that logic and human-like thinking possible in machines, by learning from it's mistakes. At first, when those networks are created, those are just stupid and useless random patterns of calculations, but if we feed it with the correct answer for a problem, just like a baby, it learns and understands what it should do or respond.
+Neural networks are those networks of calculations that make that logic and human-like thinking possible in machines, by learning from its mistakes. At first, when those networks are created, those are just stupid and useless random patterns of calculations, but if we feed it with the correct answer for a problem, just like a baby, it learns and understands what it should do or respond.
 
 > [!NOTE]
 > Neural networks are similar to the structure of our brain but not identical, to get something from them we have to do some calculations. Unfortunately, you can't escape from math here!
