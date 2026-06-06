@@ -1,5 +1,5 @@
 # Introduction to AI
-hey, *bakers*! Before even starting our ovens I wanted to introduce you to the world of AI, talking about everything you need to know before we start. If you feel like you're already a pro in the topic or you're just lazy, you could directly skip to [this]() lesson! And now, let's get started.
+hey, *bakers*! Before even starting our ovens I wanted to introduce you to the world of AI, talking about everything you need to know before we start. If you feel like you're already a pro in the topic or you're just lazy, you could directly skip to [this](/Recipes/A2.%20Preparing%20our%20bakery) lesson! And now, let's get started.
 
 
 ## How AI was born?
@@ -29,7 +29,7 @@ What does it mean? It means, as we said, that AI is the capability of a server o
 Neural networks are those networks of calculations that make that logic and human-like thinking possible in machines, by learning from it's mistakes. At first, when those networks are created, those are just stupid and useless random patterns of calculations, but if we feed it with the correct answer for a problem, just like a baby, it learns and understands what it should do or respond.
 
 > [!NOTE]
-> Neural networks are similar to the structure of our brain but not identical, to get something from them we have still to do some calculations. Unfortunately, you can't escape from math here!
+> Neural networks are similar to the structure of our brain but not identical, to get something from them we have to do some calculations. Unfortunately, you can't escape from math here!
 
 Is that interesting? I mean, I couldn't care less of a computer knowing if it is seeing an image of a giraffe or of a human, I think you couldn't neither. 
 
@@ -45,7 +45,7 @@ The journey officially begins!
 
 ---
 
-- Next lesson: [Preparing our bakery]()
+- Next lesson: [Preparing our bakery](/Recipes/A2.%20Preparing%20our%20bakery)
 
 - Home: [AIEasyPie](/README.md)
 
@@ -53,4 +53,4 @@ The journey officially begins!
 
 ![](/images/Banner.png)
 
-**Learning AI? As easy as a pie!**
+***Learning AI? As easy as a pie!***
