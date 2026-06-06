@@ -45,9 +45,7 @@ The journey officially begins!
 
 ---
 
-- Next lesson: [Preparing our bakery](/Recipes/A2.%20Preparing%20our%20bakery)
-
-- Home: [AIEasyPie](/README.md)
+< Next lesson: [Preparing our bakery](/Recipes/A2.%20Preparing%20our%20bakery) <p align="center">Home: [AIEasyPie](/README.md)</p>
 
 ---
 
