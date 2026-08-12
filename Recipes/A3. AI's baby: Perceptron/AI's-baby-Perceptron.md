@@ -3,4 +3,4 @@ Hola, *bakers*! Before we even explore complicated AI structures, let's first le
 
 
 ## Percep..What??
-Perceptrons.. no it's not a transformer, it's a singular neuron. Neural networks are like a group of workers while a perceptron is one, lonely worker.
+Perceptron.. no it's not a transformer, it's a singular neuron. Neural networks are like a group of workers while a perceptron is one, lonely worker.
