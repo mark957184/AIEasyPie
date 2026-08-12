@@ -37,7 +37,7 @@ But knowing computers can think like humans is actually pretty important, becaus
 
 
 ## And now?
-Now, let's prepare our *bakery*! First of all, from the next course I'll almost always present to you, as I said in the README, some AI "children". By AI "children" I mean neural networks or similar examples, now you know it.
+Now, let's prepare our *bakery*! First of all, from A3 lesson I'll almost always present to you, as I said in the README, some AI "children". By AI "children" I mean neural networks or similar examples like perceptrons (those are even "younger" than children), now you know it.
 
 Those neural networks will be done in Python language, one of the most used computer languages for AI. I'll introduce you to Python here ([Preparing our bakery](/Recipes/A2.%20Preparing%20our%20bakery)), this will be the next lesson.
 
