@@ -101,7 +101,7 @@ It's all ready to be used! If you're not familiarized with these tools, don't wo
 
 <div align="center">
   
-  | &nbsp;&nbsp;&nbsp;&nbsp;[⬅️ Previous lesson](/Recipes/A3.%20AI's%20baby:%20Perceptron)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[🏠 Home](/README.md)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Next lesson ➡️](/Recipes/A1.%20Introduction%20to%20AI)&nbsp;&nbsp;&nbsp;&nbsp; |
+  | &nbsp;&nbsp;&nbsp;&nbsp;[⬅️ Previous lesson](/Recipes/A1.%20Introduction%20to%20AI)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[🏠 Home](/README.md)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[Next lesson ➡️](/Recipes/A3.%20AI's%20baby:%20Perceptron)&nbsp;&nbsp;&nbsp;&nbsp; |
   | :---: | :---: | :---: |
   
 </div>
